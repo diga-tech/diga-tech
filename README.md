@@ -1,8 +1,8 @@
-<h2 align="center">Hi 👋, I'm Radiga</h2>
-<p align="left">👨‍💻Electrical Engineering graduate passionate about Big Data (data analyst, data science, data engineering), Artificial Intelligence, Large Language Model, and Digital transformation</p>
+<h2 align="left">Hi 👋, I'm Radiga</h2>
+<p align="left">Electrical Engineering graduate passionate about Big Data (data analyst, data science, data engineering), Artificial Intelligence, Large Language Model, and Digital transformation</p>
 <p align="center"><img height=200px src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif"/>
 </p>
-<h3>💻Tech and Tools</h3><hr>
+<h2>💻Tech and Tools</h2>
 <ul>
   <li>⌨</li>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/> <img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/> 
@@ -16,19 +16,22 @@
 </ul>
 
 
-<h4>📝I'm currently learning</h4>
-<b>Data Engineering Tools</b> 
+<b>📝I'm currently learning</b>
+<p>Data Engineering Tools</p> 
 
 <p> <img width=100 src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/gcp.png"/> <img width=100 src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/apache_spark.png"/> <img width=120 src="https://upload.wikimedia.org/wikipedia/commons/d/de/AirflowLogo.png"/> <img width=120 src="https://logos-world.net/wp-content/uploads/2022/11/Snowflake-Logo-500x281.png"/> </p>
 
 
-<h3 align="left">Connect with me</h3><hr>
+<h2 align="left">Connect with me</h2>
 <p align="left">
   <a href="https://www.linkedin.com/in/muhammad-radiga-gubarda/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
+  <a href="mailto:radigagubarda@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
   
 </p>
-<hr>
+<br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=diga-tech&show_icons=true&locale=en&layout=compact" alt="diga-tech" /></p>
 
